@@ -1,4 +1,3 @@
-# Sensor-Suhu-dengan-output-Piezzosounder
 int R_LED=8;
 int B_LED=7;
 int Buz=5;
